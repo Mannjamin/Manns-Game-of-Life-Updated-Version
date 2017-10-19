@@ -32,6 +32,6 @@ Link to the Game of Life Wiki:   [Link to Game of Life Definition:](https://en.w
 ## Licencing:
 This project, alongside my original are both subject of the MIT Licence.
 
-All are free to utilise my projects and do anything you like to my code however, you mt lets people do anything they want with your code as long as you:
+The MIT Licence lets people do anything they want with my code as long as you:
 * Provide Attibution in the form of a reference within your updated material.
 * Take responcibility for any malfunctions within the code after your edits. I am not liable to any damage to my original code.
