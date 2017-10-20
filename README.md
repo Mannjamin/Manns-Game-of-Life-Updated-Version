@@ -1,7 +1,11 @@
 # Manns-Game-of-Life-Updated-Version
 A new, sleek, cleaner version of my original Game of Life simulation developed in Java using SWING!
 
+![Mann's Updated Game of Life:](https://media.discordapp.net/attachments/334011383140188161/370884979132989451/unknown.png?width=1214&height=683)
+
 This Game of Life Visualizer is based on my original repository **Manns-Game-of-Life-Original-Version**.
+
+![Mann's Original Game of Life:](https://media.discordapp.net/attachments/334011383140188161/370885888198049792/unknown.png?width=1214&height=683)
 
 This version utilises the same backend processing as the original with added features. 
 
